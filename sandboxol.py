@@ -76,9 +76,9 @@ start = f"""{Fore.BLUE}  ____    _    _   _ ____  ____   _____  __
      ʟɪsᴛ {YELLOW}{commands}{RESET}
 
 {line_2}
-{MAGENTA}Telegram: @nullowns{RESET}
+{MAGENTA}chxxzxy{RESET}
 {line_1}
-{MAGENTA}GitHub: https://github.com/nullowns/sandbox{RESET}
+{MAGENTA}Hi{RESET}
 {line_2}{RESET_ALL}\n"""
 
 def banner(text):
